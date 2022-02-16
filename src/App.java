@@ -4,5 +4,6 @@ public class App {
         System.out.println("Ini adalah branch development");
         System.out.println("Menambahkan fitur B");
         System.out.println("Menambahkan beberapa perbaikan di fitur B");
+        System.out.println("Menambal bug dan mendapatkan bug baru :v");
     }
 }
