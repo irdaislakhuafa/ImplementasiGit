@@ -5,5 +5,7 @@ public class App {
         System.out.println("Menambahkan fitur B");
         System.out.println("Menambahkan beberapa perbaikan di fitur B");
         System.out.println("Menambal bug dan mendapatkan bug baru :v");
+        System.out.println("Menambah entah fitur apa :D");
+        System.out.println("Menambah entah fitur apa lagi :D");
     }
 }
